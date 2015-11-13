@@ -1,0 +1,10 @@
+D:\portalconteudos\PortalConteudos.WebSite\bin\PortalConteudos.WebSite.dll
+D:\portalconteudos\PortalConteudos.WebSite\bin\PortalConteudos.WebSite.pdb
+D:\portalconteudos\PortalConteudos.WebSite\obj\Debug\PortalConteudos.WebSite.dll
+D:\portalconteudos\PortalConteudos.WebSite\obj\Debug\PortalConteudos.WebSite.pdb
+D:\portalconteudos\PortalConteudos.WebSite\obj\Debug\PortalConteudos.WebSite.csprojResolveAssemblyReference.cache
+D:\PROJECTOS\portalconteudos\PortalConteudos.WebSite\bin\PortalConteudos.WebSite.dll
+D:\PROJECTOS\portalconteudos\PortalConteudos.WebSite\bin\PortalConteudos.WebSite.pdb
+D:\PROJECTOS\portalconteudos\PortalConteudos.WebSite\obj\Debug\PortalConteudos.WebSite.csprojResolveAssemblyReference.cache
+D:\PROJECTOS\portalconteudos\PortalConteudos.WebSite\obj\Debug\PortalConteudos.WebSite.dll
+D:\PROJECTOS\portalconteudos\PortalConteudos.WebSite\obj\Debug\PortalConteudos.WebSite.pdb
